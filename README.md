@@ -1,11 +1,11 @@
-#Git Introduction
+# Git Introduction
 
-Nama mata kuliah
+# Nama Mata Kuliah
 Software Development
 
-Nama dan NPM
+# Nama dan NPM
 Zulfan Akbar Putra
 2413020066
 
-Deskripsi repository
+# Deskripsi repository
 Repository ini dibuat untuk menyelesaikan tugas pengenalan Git dan Github mata kuliah Software Development
