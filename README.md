@@ -9,3 +9,11 @@ Zulfan Akbar Putra
 
 # Deskripsi repository
 Repository ini dibuat untuk menyelesaikan tugas pengenalan Git dan Github mata kuliah Software Development
+
+# Tujuan repository
+Repository ini dibuat bertujuan untuk mengenal diri sendiri dan mata kuliah software development ini
+
+# Tools yang digunakan
+-Git
+-Github
+-VS Code
